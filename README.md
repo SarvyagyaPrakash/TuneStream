@@ -28,7 +28,7 @@ Before running the project locally, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SarvyagyaPrakash/TuneStream.git
+   git clone (url)
    cd TuneStream
    ```
 
